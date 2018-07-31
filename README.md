@@ -17,7 +17,7 @@ I mainly speak about these topics:
 - `elixir`
 - Management in IT
 
-If want to **invite** me to speak at your event, please feel free to email me.
+If you want to **invite** me to speak at your event, please feel free to email me.
 
 
 ## Upcoming events
