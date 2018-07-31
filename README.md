@@ -22,6 +22,9 @@ If you want to **invite** me to speak at your event, please feel free to email m
 
 ## Upcoming events
 
+| Talk | Conference | City | Date | Language |
+|:----:|:----------:|:----:|:----:|:--------:|
+|Alternative HR|Index Tech|Moscow, Russia|12.10.2018|:ru:|
 
 | Talk | Conference | City | Date | Language |
 |:----:|:----------:|:----:|:----:|:--------:|
