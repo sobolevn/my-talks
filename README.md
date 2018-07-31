@@ -17,7 +17,7 @@ I mainly speak about these topics:
 - `elixir`
 - Management in IT
 
-If want to invite me to speak at your event, please feel free to email me.
+If want to **invite** me to speak at your event, please feel free to email me.
 
 
 ## Upcoming events
@@ -38,7 +38,7 @@ If want to invite me to speak at your event, please feel free to email me.
 
 | Conference | City | Date | Video | Slides | Language |
 |:----------:|:----:|:----:|:-----:|:------:|:--------:|
-||MoscowJS|Moscow, Russia|31.05.2018|[:video_camera:](https://youtu.be/SXFrXbhWsVY)|[:notebook_with_decorative_cover:](https://cloud.mail.ru/public/Thzo/rtfRN2MYo)|:ru:|
+|MoscowJS|Moscow, Russia|31.05.2018|[:video_camera:](https://youtu.be/SXFrXbhWsVY)|[:notebook_with_decorative_cover:](https://cloud.mail.ru/public/Thzo/rtfRN2MYo)|:ru:|
 
 `#javascript`, `#vue`, `#nuxt`
 
@@ -119,6 +119,89 @@ I have tried to sup it all up.
 ---
 
 ## 2017
+
+### Processes. OTP. Elixir
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|FPConf|Moscow, Russia|17.12.2017|[:video_camera:](https://www.youtube.com/watch?v=Uzu53nnv1cw)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/processes-otp-elixir)|:ru:|
+
+`#elixir`, `#otp`
+
+I have described all the major patterns for working with processes in `elixir`.
+
+Target audience was rather strong in the topic,
+so it was full of code examples and in-depth topics.
+
+### Elixir: is it good? When to use?
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|SaintPRUG|St-Petersburg, Russia|23.11.2017|[:video_camera:](https://www.youtube.com/watch?v=ujC-Sea-JLM)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/elixir-is-it-good-when-to-use)|:ru:|
+
+`#elixir`, `#ruby`
+
+A lot of `ruby` developers seem to be interested in `elixir`.
+
+So, I have described when to use `elixir`, and when to use it.
+I have also covered its advantages and disadvantages.
+
+### Elixir is not Ruby, it is better
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|Rails Club|Moscow, Russia|23.09.2017|[:video_camera:](https://www.youtube.com/watch?v=88Kp-HQ6LX4)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/elixir-is-not-ruby-it-is-better)|:ru:|
+
+`#elixir`, `#ruby`
+
+When speaking about `elixir` among `ruby` developers you have to understand
+the main idea: these languages are not the same.
+
+Even if the syntax looks familiar. They are completely different.
+And I have showed that `elixir` solves a lot of the problems we have in `ruby`.
+
+### Storing secret settings in Python
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|MoscowPython|Moscow, Russia|21.08.2017|[:video_camera:](https://youtu.be/xtr3sUZUnQA)|[:notebook_with_decorative_cover:](https://speakerdeck.com/moscowdjango/khranieniie-siekrietnykh-nastroiek)|:ru:|
+
+`#python`, `#django`, `#security`
+
+Storing secrets is hard. Two people can keep a secret when one of them is dead.
+
+I have showed different strategies.
+And how to choose the correct one depending on your project size
+and the number of team members.
+
+### Well-known security failures
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|MoscowSecurity|Moscow, Russia|10.08.2017| |[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/well-known-security-failures)|:ru:|
+
+`#security`
+
+I gave a brief overview of well-known security failures at different levels.
+Including small business, corporations, and government.
+
+I have also showed that it is getting worse.
+
+### How to learn programming, and not just Python
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|MoscowPythonJunior|Moscow, Russia|13.04.2017|[:video_camera:](https://www.youtube.com/watch?v=LODGssEJpNc)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/how-to-learn-programming-and-not-just-python)|:ru:|
+
+`#python`, `#education`, `#career`
+
+A lot of newcomers try to learn just practical skills
+without building a complete knowledge system.
+
+This motivation talk tries to push junior developers to
+invest time and effort into self-education.
+
+---
 
 ## 2016
 
