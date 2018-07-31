@@ -45,7 +45,7 @@ If want to **invite** me to speak at your event, please feel free to email me.
 The main idea of this talk was: it is easy to start a modern web app.
 And we even provide the latest tech to do it: https://github.com/wemake-services/wemake-vue-template
 
-I have also covered all the things that are quite important to the large scale
+I have also covered all the things that are quite important to the large-scale
 `Vue` projects.
 
 ### Broken processes in IT: wages
@@ -56,7 +56,7 @@ I have also covered all the things that are quite important to the large scale
 
 `#management`, [`#rsdp`](wemake.services/meta), `#career`
 
-This talk was revealing the sad truth about money we earn as employees.
+This talk was revealing the sad truth about the money we earn as employees.
 I tried to show all the problems in this model.
 
 I have also offered them to take a look at the alternative solution: [`RSDP`](wemake.services/meta).
@@ -84,9 +84,9 @@ for a successful `django` application.
 `#python`
 
 There's a new awesome tool to manage your dependencies in a `python` world.
-It is called `pipenv`. And it solves so much problems!
+It is called `pipenv`. And it solves so many problems!
 
-However, it is not perfect itself. I have to guide new users through this tool.
+However, it is not perfect in itself. I have to guide new users through this tool.
 
 ### Ecto: the easy and the hard
 
@@ -101,7 +101,7 @@ Using `ecto` is great.
 There are different concepts that make this tool easy to use.
 And there are some hard abstractions.
 
-I have gave an overview about its features.
+I have given an overview of its features.
 
 ### Problems in teaching programming
 
@@ -113,7 +113,7 @@ I have gave an overview about its features.
 
 I teach software developers for more than 3 years now.
 
-I had different experience with universities, courses, and mentorship.
+I had different experiences with universities, courses, and mentorship.
 I have tried to sup it all up.
 
 ---
@@ -130,7 +130,7 @@ I have tried to sup it all up.
 
 I have described all the major patterns for working with processes in `elixir`.
 
-Target audience was rather strong in the topic,
+The target audience was rather strong in the topic,
 so it was full of code examples and in-depth topics.
 
 ### Elixir: is it good? When to use?
@@ -158,7 +158,7 @@ When speaking about `elixir` among `ruby` developers you have to understand
 the main idea: these languages are not the same.
 
 Even if the syntax looks familiar. They are completely different.
-And I have showed that `elixir` solves a lot of the problems we have in `ruby`.
+And I have shown that `elixir` solves a lot of the problems we have in `ruby`.
 
 ### Storing secret settings in Python
 
@@ -170,7 +170,7 @@ And I have showed that `elixir` solves a lot of the problems we have in `ruby`.
 
 Storing secrets is hard. Two people can keep a secret when one of them is dead.
 
-I have showed different strategies.
+I have shown different strategies.
 And how to choose the correct one depending on your project size
 and the number of team members.
 
@@ -185,7 +185,7 @@ and the number of team members.
 I gave a brief overview of well-known security failures at different levels.
 Including small business, corporations, and government.
 
-I have also showed that it is getting worse.
+I have also shown that it is getting worse.
 
 ### How to learn programming, and not just Python
 
@@ -215,7 +215,7 @@ invest time and effort into self-education.
 
 This talk was a rather hardcore dive into `elixir` for functional programmers.
 
-I have showed performance metrics, main ideas,
+I have shown performance metrics, main ideas,
 and killer features of the language.
 
 ### Moving to Elixir from the good-old Python
@@ -229,4 +229,4 @@ and killer features of the language.
 This talks showed a motivation behind my idea to add `elixir` to the mix.
 
 It also covered some basic problems
-with `elixir` that were on-topic at that point of time.
+with `elixir` that were on-topic at that point in time.
