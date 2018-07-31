@@ -25,13 +25,7 @@ If you want to **invite** me to speak at your event, please feel free to email m
 | Talk | Conference | City | Date | Language |
 |:----:|:----------:|:----:|:----:|:--------:|
 |Alternative HR|Index Tech|Moscow, Russia|12.10.2018|:ru:|
-
-| Talk | Conference | City | Date | Language |
-|:----:|:----------:|:----:|:----:|:--------:|
 |Gentle introduction to Elixir|IT Workshop 2018|Ryazan, Russia|29.09.2018|:ru:|
-
-| Talk | Conference | City | Date | Language |
-|:----:|:----------:|:----:|:----:|:--------:|
 |Testing real Vue apps|krddevdays.ru|Kransodar, Russia|15.09.2018|:ru:|
 
 
