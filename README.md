@@ -72,7 +72,7 @@ I have also offered them to take a look at the alternative solution: [`RSDP`](we
 The main idea of this talk was: it is easy to start a modern web app.
 And we even provide the latest tech to do it: https://github.com/wemake-services/wemake-django-template
 
-I have covered all some major things that are required
+I have covered all major things that are required
 for a successful `django` application.
 
 ### Introducing Pipenv
@@ -96,8 +96,10 @@ However, it is not perfect itself. I have to guide new users through this tool.
 
 `#elixir`, `#ecto`, `#phoenix`
 
-Using `ecto` is great. There are different concepts that make this tool easy.
-And there are some abstractions that make hard things easy.
+Using `ecto` is great.
+
+There are different concepts that make this tool easy to use.
+And there are some hard abstractions.
 
 I have gave an overview about its features.
 
@@ -116,6 +118,32 @@ I have tried to sup it all up.
 
 ---
 
-### 2017
+## 2017
 
-### 2016
+## 2016
+
+### Elixir propaganda
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|FPConf|Moscow, Russia|3.12.2016|[:video_camera:](https://www.youtube.com/watch?v=SOlvn4dRoJo)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/elixir-propaganda)|:ru:|
+
+`#elixir`
+
+This talk was a rather hardcore dive into `elixir` for functional programmers.
+
+I have showed performance metrics, main ideas,
+and killer features of the language.
+
+### Moving to Elixir from the good-old Python
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|ElixirLangMoscow|Moscow, Russia|23.09.2016|[:video_camera:](https://www.youtube.com/watch?v=ZQFlAVc4zHY)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/pieriekhod-na-elixir-ot-privychnogho-python)|:ru:|
+
+`#elixir`
+
+This talks showed a motivation behind my idea to add `elixir` to the mix.
+
+It also covered some basic problems
+with `elixir` that were on-topic at that point of time.
