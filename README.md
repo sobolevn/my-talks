@@ -32,33 +32,87 @@ If want to invite me to speak at your event, please feel free to email me.
 |Testing real Vue apps|krddevdays.ru|Kransodar, Russia|15.09.2018|:ru:|
 
 
-## Past events
+## 2018
 
-### 2018
+### Enterprise Ready Vue Template
 
-| Talk | Conference | City | Date | Video | Slides | Language |
-|:----:|:----------:|:----:|:----:|:-----:|:------:|:--------:|
-|Enterprise Ready Vue Template|MoscowJS|Moscow, Russia|31.05.2018|[:video_camera:](https://youtu.be/SXFrXbhWsVY)|[:notebook_with_decorative_cover:](https://cloud.mail.ru/public/Thzo/rtfRN2MYo)|:ru:|
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+||MoscowJS|Moscow, Russia|31.05.2018|[:video_camera:](https://youtu.be/SXFrXbhWsVY)|[:notebook_with_decorative_cover:](https://cloud.mail.ru/public/Thzo/rtfRN2MYo)|:ru:|
 
-| Talk | Conference | City | Date | Video | Slides | Language |
-|:----:|:----------:|:----:|:----:|:-----:|:------:|:--------:|
-|Broken processes in IT: wages|DevConf|Moscow, Russia|18.05.2018| |[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/broken-processes-in-it-wages)|:ru:|
+`#javascript`, `#vue`, `#nuxt`
 
-| Talk | Conference | City | Date | Video | Slides | Language |
-|:----:|:----------:|:----:|:----:|:-----:|:------:|:--------:|
-|Starting a Django project the right way|MoscowPython|Moscow, Russia|22.03.2018|[:video_camera:](http://www.moscowpython.ru/meetup/54/starting-django-app/)|[:notebook_with_decorative_cover:](https://speakerdeck.com/moscowdjango/nachinaiem-django-prilozhieniie-pravil-no)|:ru:|
+The main idea of this talk was: it is easy to start a modern web app.
+And we even provide the latest tech to do it: https://github.com/wemake-services/wemake-vue-template
 
-| Talk | Conference | City | Date | Video | Slides | Language |
-|:----:|:----------:|:----:|:----:|:-----:|:------:|:--------:|
-|Introducing Pipenv|ITGM|St-Petersburg, Russia|17.03.2018| |[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/introducing-pipenv)|:ru:|
+I have also covered all the things that are quite important to the large scale
+`Vue` projects.
 
-| Talk | Conference | City | Date | Video | Slides | Language |
-|:----:|:----------:|:----:|:----:|:-----:|:------:|:--------:|
-|Ecto: the easy and the hard|ExpertFridays|Kazan, Russia|2.03.2018|[:video_camera:](https://www.youtube.com/watch?v=Blp4v3XSjPo&t=1018s)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/ecto-the-easy-and-the-hard)|:ru:|
+### Broken processes in IT: wages
 
-| Talk | Conference | City | Date | Video | Slides | Language |
-|:----:|:----------:|:----:|:----:|:-----:|:------:|:--------:|
-|Problems in teaching programming|Softer|Moscow, Russia|30.01.2018| |[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/problems-in-teaching-programming)|:ru:|
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|DevConf|Moscow, Russia|18.05.2018| |[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/broken-processes-in-it-wages)|:ru:|
+
+`#management`, [`#rsdp`](wemake.services/meta), `#career`
+
+This talk was revealing the sad truth about money we earn as employees.
+I tried to show all the problems in this model.
+
+I have also offered them to take a look at the alternative solution: [`RSDP`](wemake.services/meta).
+
+### Starting a Django project the right way
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|MoscowPython|Moscow, Russia|22.03.2018|[:video_camera:](http://www.moscowpython.ru/meetup/54/starting-django-app/)|[:notebook_with_decorative_cover:](https://speakerdeck.com/moscowdjango/nachinaiem-django-prilozhieniie-pravil-no)|:ru:|
+
+`#python`, `#django`
+
+The main idea of this talk was: it is easy to start a modern web app.
+And we even provide the latest tech to do it: https://github.com/wemake-services/wemake-django-template
+
+I have covered all some major things that are required
+for a successful `django` application.
+
+### Introducing Pipenv
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|ITGM|St-Petersburg, Russia|17.03.2018| |[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/introducing-pipenv)|:ru:|
+
+`#python`
+
+There's a new awesome tool to manage your dependencies in a `python` world.
+It is called `pipenv`. And it solves so much problems!
+
+However, it is not perfect itself. I have to guide new users through this tool.
+
+### Ecto: the easy and the hard
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|ExpertFridays|Kazan, Russia|2.03.2018|[:video_camera:](https://www.youtube.com/watch?v=Blp4v3XSjPo&t=1018s)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/ecto-the-easy-and-the-hard)|:ru:|
+
+`#elixir`, `#ecto`, `#phoenix`
+
+Using `ecto` is great. There are different concepts that make this tool easy.
+And there are some abstractions that make hard things easy.
+
+I have gave an overview about its features.
+
+### Problems in teaching programming
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|Softer|Moscow, Russia|30.01.2018| |[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/problems-in-teaching-programming)|:ru:|
+
+`#education`, `#career`
+
+I teach software developers for more than 3 years now.
+
+I had different experience with universities, courses, and mentorship.
+I have tried to sup it all up.
 
 ---
 
