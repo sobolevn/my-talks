@@ -26,7 +26,7 @@ If you want to **invite** me to speak at your event, please feel free to email m
 |:----:|:----------:|:----:|:----:|:--------:|
 |Alternative HR|Index Tech|Moscow, Russia|12.10.2018|:ru:|
 |Gentle introduction to Elixir|IT Workshop 2018|Ryazan, Russia|29.09.2018|:ru:|
-|Testing real Vue apps|krddevdays.ru|Kransodar, Russia|15.09.2018|:ru:|
+|Testing real Vue apps|krddevdays.ru|Krasnodar, Russia|15.09.2018|:ru:|
 
 
 ## 2018
@@ -69,8 +69,8 @@ I have also offered them to take a look at the alternative solution: [`RSDP`](we
 The main idea of this talk was: it is easy to start a modern web app.
 And we even provide the latest tech to do it: https://github.com/wemake-services/wemake-django-template
 
-I have covered all major things that are required
-for a successful `django` application.
+I have also covered all the things that are quite important to the large-scale
+`django` projects.
 
 ### Introducing Pipenv
 
