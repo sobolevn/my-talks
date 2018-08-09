@@ -3,8 +3,8 @@
 [![wemake.services](https://img.shields.io/badge/-wemake.services-green.svg?label=%20&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC%2FxhBQAAAAFzUkdCAK7OHOkAAAAbUExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP%2F%2F%2F5TvxDIAAAAIdFJOUwAjRA8xXANAL%2Bv0SAAAADNJREFUGNNjYCAIOJjRBdBFWMkVQeGzcHAwksJnAPPZGOGAASzPzAEHEGVsLExQwE7YswCb7AFZSF3bbAAAAABJRU5ErkJggg%3D%3D)](https://wemake.services) 
 
 I work at [`wemake.services`](https://github.com/wemake-services) as a CTO.
-What do I do? I write software, manage other people,
-and tell about what we do and how we do it.
+What do I do? I create products, write software, manage other people,
+and speak about what we do and how we do it.
 
 ---
 
@@ -17,9 +17,9 @@ I mainly speak about these topics:
 - `elixir`
 - Management in IT
 
-If you want to **invite** me to speak at your event, please feel free to email me.
-
 I also host and organize [`ElixirLangMoscow`](http://elixir-lang.moscow/) meetups. 
+
+If you want to **invite** me to speak at your event, please feel free to email me.
 
 
 ## Upcoming events
