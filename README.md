@@ -19,6 +19,8 @@ I mainly speak about these topics:
 
 I also host and organize [`ElixirLangMoscow`](http://elixir-lang.moscow/) meetups. 
 
+If you want to **subscribe** for future events, click the ["Watch"](https://github.com/sobolevn/my-talks/subscription) button.
+
 If you want to **invite** me to speak at your event, please feel free to email me.
 
 
@@ -29,6 +31,7 @@ If you want to **invite** me to speak at your event, please feel free to email m
 |Alternative HR|Index Tech|Moscow, Russia|12.10.2018|:ru:|
 |Gentle introduction to Elixir|IT Workshop 2018|Ryazan, Russia|29.09.2018|:ru:|
 |Testing real Vue apps|krddevdays.ru|Krasnodar, Russia|15.09.2018|:ru:|
+|Continous Documentation|Write the Docs Moscow|Moscow, Russia|22.08.2018|:ru:|
 
 
 ## 2018
