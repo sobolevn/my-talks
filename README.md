@@ -21,7 +21,7 @@ I also host and organize [`ElixirLangMoscow`](http://elixir-lang.moscow/) meetup
 
 If you want to **subscribe** for future events, click the ["Watch"](https://github.com/sobolevn/my-talks/subscription) button.
 
-If you want to **invite** me to speak at your event, please feel free to email me.
+If you want to **invite** me to speak at your event, please feel free to [email me](mailto:mail@sobolevn.me).
 
 
 ## Upcoming events
