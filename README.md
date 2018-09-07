@@ -28,13 +28,24 @@ If you want to **invite** me to speak at your event, please feel free to [email 
 
 | Talk | Conference | City | Date | Language |
 |:----:|:----------:|:----:|:----:|:--------:|
+|Interactive holywars about linters|Moscow Python Conf++|22-23.10.2018|:ru:|
 |Alternative HR|Index Tech|Moscow, Russia|12.10.2018|:ru:|
 |Gentle introduction to Elixir|IT Workshop 2018|Ryazan, Russia|29.09.2018|:ru:|
 |Testing real Vue apps|krddevdays.ru|Krasnodar, Russia|15.09.2018|:ru:|
-|Continous Documentation|Write the Docs Moscow|Moscow, Russia|22.08.2018|:ru:|
 
 
 ## 2018
+
+### Continous Documentation
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|Write the Docs Moscow|Moscow, Russia|22.08.2018||[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/continous-documentation)|:ru:|
+
+`#rsdp`, `#documentation`
+
+This talk cover a simple process we follow in our company to document the code we write.
+It also mentioned other processes we have.
 
 ### Enterprise Ready Vue Template
 
