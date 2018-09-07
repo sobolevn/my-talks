@@ -28,7 +28,7 @@ If you want to **invite** me to speak at your event, please feel free to [email 
 
 | Talk | Conference | City | Date | Language |
 |:----:|:----------:|:----:|:----:|:--------:|
-|Interactive holywars about linters|Moscow Python Conf++|22-23.10.2018|:ru:|
+|Interactive holywars about linters|Moscow Python Conf++|Moscow, Russia|22-23.10.2018|:ru:|
 |Alternative HR|Index Tech|Moscow, Russia|12.10.2018|:ru:|
 |Gentle introduction to Elixir|IT Workshop 2018|Ryazan, Russia|29.09.2018|:ru:|
 |Testing real Vue apps|krddevdays.ru|Krasnodar, Russia|15.09.2018|:ru:|
