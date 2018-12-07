@@ -38,7 +38,7 @@ None! My scedule is currently free, so invite me to speak at your conference!
 
 | Conference | City | Date | Video | Slides | Language |
 |:----------:|:----:|:----:|:-----:|:------:|:--------:|
-|Interactive holywars about linters|Moscow Python Conf++|Moscow, Russia|22-23.10.2018|[:video_camera:](https://www.youtube.com/watch?v=7IVCOzL41Lk)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/interactive-holywars-about-linters)|:ru:|
+|Moscow Python Conf++|Moscow, Russia|22-23.10.2018|[:video_camera:](https://www.youtube.com/watch?v=7IVCOzL41Lk)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/interactive-holywars-about-linters)|:ru:|
 
 `#python`
 
