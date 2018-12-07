@@ -61,7 +61,7 @@ I have covered different things that make our company so successful in this part
 |:----------:|:----:|:----:|:-----:|:------:|:--------:|
 |krddevdays.ru|Krasnodar, Russia|15.09.2018|[:video_camera:](https://www.youtube.com/watch?v=ICVVCOjpCkA)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/testing-real-vue-apps)|:ru:|
 
-`#javascript`, `#vue`, `#testing
+`#javascript`, `#vue`, `#testing`
 
 The main idea of this talk was to show that testing modern frontend application is easy and does not require any complicated steps.
 It also focuses a lot on best practices and real examples.
