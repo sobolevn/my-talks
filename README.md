@@ -28,13 +28,43 @@ If you want to **invite** me to speak at your event, please feel free to [email 
 
 | Talk | Conference | City | Date | Language |
 |:----:|:----------:|:----:|:----:|:--------:|
-|Interactive holywars about linters|Moscow Python Conf++|Moscow, Russia|22-23.10.2018|:ru:|
-|Alternative HR|Index Tech|Moscow, Russia|12.10.2018|:ru:|
-|Gentle introduction to Elixir|IT Workshop 2018|Ryazan, Russia|29.09.2018|:ru:|
-|Testing real Vue apps|krddevdays.ru|Krasnodar, Russia|15.09.2018|:ru:|
+
+None! My scedule is currently free, so invite me to speak at your conference!
 
 
 ## 2018
+
+### Interactive holywars about linters
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|Interactive holywars about linters|Moscow Python Conf++|Moscow, Russia|22-23.10.2018|[:video_camera:](https://www.youtube.com/watch?v=7IVCOzL41Lk)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/interactive-holywars-about-linters)|:ru:|
+
+`#python`
+
+This talk features `wemake-python-styleguide`. It is also made as an interactive poll where people can vote in real time.
+
+### Alternative HR
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|Index Tech|Moscow, Russia|12.10.2018||[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/alternative-hr)|:ru:|
+
+`#management`, [`#rsdp`](wemake.services/meta), `#career`
+
+This talk shows that there are different ways to hire people in 2018. 
+I have covered different things that make our company so successful in this particular area.
+
+### Testing real Vue apps
+
+| Conference | City | Date | Video | Slides | Language |
+|:----------:|:----:|:----:|:-----:|:------:|:--------:|
+|krddevdays.ru|Krasnodar, Russia|15.09.2018|[:video_camera:](https://www.youtube.com/watch?v=ICVVCOjpCkA)|[:notebook_with_decorative_cover:](https://speakerdeck.com/sobolevn/testing-real-vue-apps)|:ru:|
+
+`#javascript`, `#vue`, `#testing
+
+The main idea of this talk was to show that testing modern frontend application is easy and does not require any complicated steps.
+It also focuses a lot on best practices and real examples.
 
 ### Continous Documentation
 
@@ -44,7 +74,7 @@ If you want to **invite** me to speak at your event, please feel free to [email 
 
 `#rsdp`, `#documentation`
 
-This talk cover a simple process we follow in our company to document the code we write.
+This talk covers a simple process we follow in our company to document the code we write.
 It also mentioned other processes we have.
 
 ### Enterprise Ready Vue Template
